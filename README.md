@@ -8,6 +8,6 @@
  - `cd .repo`
  - `git clone https://github.com/lineage-aosp/local_manifests`
  - `cd ../`
- - `repo sync -f —force-sync —no-clone-bundle`
+ - `repo sync -f --force-sync --no-clone-bundle`
  - *This will sync the rom and my sources.*
  - **REPORT BUGS AND ISSUES** [**HERE**](https://github.com/lineage-aosp/bug-changelog)
