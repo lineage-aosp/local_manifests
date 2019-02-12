@@ -8,6 +8,6 @@
 
 <!--sdm630-->
 <project path="device/sony/nile" name="device-sony-nile" groups="device" remote="local" revision="master" />
-<project path="device/sony/pioneer" name="device-sony-pioneer" groups="device" remote="local" revision="master" />
+<project path="device/sony/pioneer" name="device-sony-pioneer" groups="device" remote="local" revision="pe" />
 
 </manifest>
