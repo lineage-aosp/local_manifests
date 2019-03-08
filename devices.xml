@@ -10,6 +10,6 @@
 <project path="device/sony/nile" name="device-sony-nile" groups="device" remote="local" revision="master" />
 <project path="device/sony/pioneer" name="device-sony-pioneer" groups="device" remote="local" revision="master" />
 <project path="device/scripts" name="scripts" groups="device" remote="local" revision="master">
-  <linkfile src="main.sh" dest="main.sh" />
+  <linkfile src="build.sh" dest="build.sh" />
 </project>
 </manifest>
